@@ -1,4 +1,7 @@
 # APPdesignerPractice
  利用Matlab的Appdesigner做的一些练习
-# 界面
+# 虚拟信号仿真与频域变换
 <img src="./experiment.png">
+
+# 齿轮强度计算
+<img src="./gear.png">
