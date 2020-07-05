@@ -5,3 +5,7 @@
 
 # 齿轮强度计算
 <img src="./gear.png">
+
+# APPDesigner入门项目
+<img src="./StudyApp.png">
+
