@@ -18,6 +18,13 @@
 
 ## 视频教程 [Bilibili](https://www.bilibili.com/video/BV1yC4y1h7um/)
 
+# APPDesigner高级控件之列表
+<img src='./list.png' width="80%">
+
+* 功能：appdesigner里导入有多个变量的mat文件，使mat里的变量显示在listbox里，然后选择listbox里的变量来画图
+## 视频教程 [Bilibili](https://www.bilibili.com/video/BV1yg4y1v7dV/)
+
+
 
 # 赞助
 * 如果您觉得这个项目帮助到了您，可以赞助我一包辣条。
