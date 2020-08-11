@@ -30,14 +30,23 @@
 ## 视频教程 [Bilibili](https://www.bilibili.com/video/BV1zh411d73L/)
 
 # Appdesigner机械臂正逆运动学
-* 待定
 
+<img src='./robotarm.png' width="80%">
+
+## 视频简介 [Bilibili](https://www.bilibili.com/video/BV1ng4y1v78Z/)
 ---
 
-# 赞助
+
+
+# 其他
+## 协议
+* 个人学习无所谓。 
+
+## 赞助
 * 如果您觉得这个项目帮助到了您，可以赞助我一包辣条。
 * 如果您想在以后的项目中留下您的名字，可以在备注中说明。
-<img src="./zanzhu.jpg"  width="40%">
+
+<img src="./zanzhu.jpg"  width="20%">
 
 |     |   |
 |  ----  | ----  |
