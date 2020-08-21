@@ -35,7 +35,12 @@
 
 ## 视频简介 [Bilibili](https://www.bilibili.com/video/BV1ng4y1v78Z/)
 ---
+# Matlab-Simulink-Appdesigner-Local全系参数传递
+<img src='./parameter.png' width="80%">
 
+> 教程向模型演示，主体功能较为简单，演示了12种参数传递方法
+> 
+## 视频教程 [Bilibili](https://www.bilibili.com/video/BV1zh411d73L/)
 
 
 # 其他
@@ -46,9 +51,14 @@
 * 如果您觉得这个项目帮助到了您，可以赞助我一包辣条。
 * 如果您想在以后的项目中留下您的名字，可以在备注中说明。
 
+|  昵称   |昵称   |
+|  ----  | ----  |
+| A  | C |
+|  B |  D|
+| A  | C |
+|  B |  D|
+
+
 <img src="./zanzhu.jpg"  width="20%">
 
-|     |   |
-|  ----  | ----  |
-|   |  |
-|   |  |
+
