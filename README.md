@@ -40,7 +40,7 @@
 
 > 教程向模型演示，主体功能较为简单，演示了12种参数传递方法
 > 
-## 视频教程 [Bilibili](https://www.bilibili.com/video/BV1zh411d73L/)
+## 视频教程 [Bilibili](https://www.bilibili.com/video/BV1i54y1m7LR/)
 
 
 # 其他
@@ -53,10 +53,10 @@
 
 |  昵称   |昵称   |
 |  ----  | ----  |
-| A  | C |
-|  B |  D|
-| A  | C |
-|  B |  D|
+| 0  | 0|
+|  0 |  1|
+| 1  | C |
+|  0 |  1|
 
 
 <img src="./zanzhu.jpg"  width="20%">
