@@ -1,0 +1,2 @@
+中文字体下载：
+KaiTi_regular.typeface.js 放入js目录下。
