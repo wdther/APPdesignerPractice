@@ -47,7 +47,13 @@
 
 ## 注意
 
-> 示例中的音乐和html文件如果侵犯到了您的权利，请联系我删除。  
+> 示例中的音乐和html文件如果侵犯到了您的权利，请联系我删除。
+>
+> 手动生成了一个中文字体包，因此会比较大，提供另一个下载渠道。
+> * 链接: https://pan.baidu.com/s/12Dr1GGVj1VhD0CRFqgamOg 
+> * 提取码: xgne  
+> 
+> 
 
 ## 视频教程 [Bilibili](https://www.bilibili.com/video/BV11t4y1S7Cn)
 
