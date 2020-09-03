@@ -43,8 +43,20 @@
 ## 视频教程 [Bilibili](https://www.bilibili.com/video/BV1i54y1m7LR/)
 ---
 # 七夕表白
+<img src='./love.png' width="80%">
+
+## 注意
+
+> 示例中的音乐和html文件如果侵犯到了您的权利，请联系我删除。  
+
+## 视频教程 [Bilibili](https://www.bilibili.com/video/BV11t4y1S7Cn)
 
 
+---
+---
+---
+---
+---
 
 # 其他
 ## 协议
