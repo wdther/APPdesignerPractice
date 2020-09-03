@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript">
+		
+        function setup(htmlComponent) {
+            console.log("Setup called:", htmlComponent);
+
+            // Get the initial 'Data' value from MATLAB
+
+	    var initialData = htmlComponent.Data;
+            console.log("Initial MATLAB Data", initialData);
+			
+	    // Initialize your HTML or JavaScript here
+	    // Update things like DOM elements or JavaScript widgets
+          
+            var dom = document.getElementById("Content");
+            dom.textContent = initialData;
+			
+	    // Code response to data changes in MATLAB
+          
+            htmlComponent.addEventListener("DataChanged", function (event) {
+                var changedData = htmlComponent.Data;
+                console.log("New Data from MATLAB", changedData);
+				
+            // Update your HTML or JavaScript with the new data
+                var dom = document.getElementById("Content");
+                dom.textContent = changedData;
+
+        });
+
+			
+            // Update 'Data' in MATLAB and trigger
+	    // the 'DataChangedFcn' callback function
+            
+        function updateData(newData) {
+            htmlComponent.Data = newData;
+            console.log("Changing Data in HTML", newData)
+        }
+        }
+    </script>
+</head>
+
+<body>
+    <div style="font-family:sans-serif;">
+		<span style="font-weight:bold;">这是一个Html控件</span><br />
+        <span style="font-weight:bold;">来自Matlab的数据为：</span><br />
+        <div id ="Content"></div>
+		<!--Content是一个显示控件 -->
+    </div>
+
+	
+    <!Reference supporting files here>
+   
+    <script src=""></script>
+    <link rel="stylesheet" type="text/css" href="">
+    <link rel="icon" type="image/png" href="">
+
+</body>
+
+</html>
